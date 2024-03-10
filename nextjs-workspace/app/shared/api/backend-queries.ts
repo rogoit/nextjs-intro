@@ -12,7 +12,7 @@ import { micromark } from "micromark";
 // ---------------------------------------------------------------------------------------------------
 // -- Simulate slowness
 // ---------------------------------------------------------------------------------------------------
-const getBlogTeaserListSlowdown = ``; // `1600`
+const getBlogTeaserListSlowdown = "1600"; // `1600`
 const getTagsSlowdown = ``; // `?slowDown=2400`;
 const getBlogPostSlowdown = ``; // `?slowDown=2400`
 const getCommentsSlowdown = ``; // `?slowDown=2400`

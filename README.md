@@ -1,5 +1,7 @@
 # Vorbereitung
 
+[YouTube Livestream bei Never Code Alone](https://youtube.com/live/gKzcTk1zI_U)
+
 ## backend installieren und starten
 
 Das "Backend" ist ein einfacher Node.js-Prozess, der auf Port 7002 lauscht.
